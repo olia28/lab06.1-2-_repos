@@ -1,0 +1,4 @@
+﻿  lab06.1(2).cpp
+D:\Student\lab06.1(2)\lab06.1(2)\lab06.1(2).cpp(74,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Student\lab06.1(2)\lab06.1(2)\lab06.1(2).cpp(42): warning C4715: 'Count': not all control paths return a value
+  lab06.1(2).vcxproj -> D:\Student\lab06.1(2)\x64\Debug\lab06.1(2).exe
